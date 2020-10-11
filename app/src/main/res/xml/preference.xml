@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/reminder">
+        <SwitchPreferenceCompat
+            app:icon="@drawable/ic_baseline_notifications_24"
+            app:key="notifications"
+            android:summaryOff="@string/notification_disable"
+            android:summaryOn="@string/notification_enable"
+            app:title="@string/notification_reminder"
+            app:iconSpaceReserved="false"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/language">
+        <Preference
+            app:icon="@drawable/ic_baseline_language_24"
+            app:key="preference_language"
+            app:title="@string/change_language"
+            app:iconSpaceReserved="false"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

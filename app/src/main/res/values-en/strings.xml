@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">submission3BFAA</string>
+    <string name="name">Name</string>
+    <string name="number">888</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="work">Work</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="profile_picture">Profil Picture</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="link"><u>Link</u></string>
+    <string name="search">Search..</string>
+    <string name="search_img">Search_img</string>
+    <string name="unknown">Unknown</string>
+    <string name="nope">-</string>
+    <string name="favorite">Favorite</string>
+    <string name="daily_notif_message">Don`t forget to re-open the github user application</string>
+    <string name="reminder">Reminder</string>
+    <string name="language">Language</string>
+    <string name="add_to_favorite">add to favorite</string>
+    <string name="favorite_users">favorite users</string>
+    <string name="delete_from_favorite">Delete from favorite</string>
+    <string name="notification_reminder">Daily Reminder</string>
+    <string name="notification_disable">Notification is Disabled</string>
+    <string name="notification_enable">Notification is Enabled</string>
+    <string name="change_language">Change Language</string>
+</resources>

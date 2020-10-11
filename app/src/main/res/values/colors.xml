@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f1f3f8</color>
+    <color name="colorPrimaryDark">#d6e0f0</color>
+    <color name="colorAccent">#8d93ab</color>
+    <color name="whiteActivityInfo">#FFFFFF</color>
+    <color name="textColor">#202020</color>
+    <color name="error">#B00020</color>
+
+</resources>
